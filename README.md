@@ -6,9 +6,9 @@ I'm currently exploring, studying, and building foundations and portfolio. There
 </br>
 </br>
 
-![aevpzf](https://github.com/user-attachments/assets/56dea10c-051c-4598-adb9-92fcd1dc5f16)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56dea10c-051c-4598-adb9-92fcd1dc5f16" width="300">
+</p>
 
 </br>
 </br>
