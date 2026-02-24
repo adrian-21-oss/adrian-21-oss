@@ -206,15 +206,15 @@
 
 ###
 
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="200" src="https://github.com/user-attachments/assets/908071c7-99c5-4791-9134-2704e022b009"  />
 
 ###
 
-<img align="right" height="210" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="210" src="https://github.com/user-attachments/assets/7ca91a54-088f-4f79-847c-6096ab75d9fd"  />
 
 ###
 
-<div align="center">
+<div align="center" position="absolute">
   <a href="https://open.spotify.com/user/31ppd7bin4yfdlo237ye7fkmi6va">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ppd7bin4yfdlo237ye7fkmi6va&count=8&unique=true" alt="Spotify recently played"  />
   </a>
