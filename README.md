@@ -16,6 +16,8 @@
 
 ###
 
+<br>
+
 <h4 align="left">🔭 Building my foundation in cybersecurity and IT fundamentals.<br><br>🤝 Seeking guidance on blue team skills, log analysis, and threat detection.<br><br>🌱 Learning OS (Windows & Linux) and web development and computer networking as part of my curriculum.<br><br>⚡ Fun fact: I look very chill and calm in the outside. I am also kind of stubborn to my beliefs, but I am also friendly, very understanding, and open minded.</h4>
 
 ###
@@ -27,6 +29,9 @@
 <p align="left"></p>
 
 ###
+
+<br>
+
 
 <br>
 
@@ -80,6 +85,9 @@
 
 ###
 
+
+<br>
+
 <h3 align="center">Language I currently exploring on</h3>
 
 ###
@@ -105,6 +113,9 @@
 <p align="left"></p>
 
 ###
+
+
+<br>
 
 <h3 align="center">Techs I currently use/explore</h3>
 
@@ -136,6 +147,8 @@
 
 ###
 
+<br>
+
 <h3 align="center">My Socials</h3>
 
 ###
@@ -164,6 +177,8 @@
 
 ###
 
+<br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=adrian-21-oss&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrian-21-oss&radius=14&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
@@ -171,7 +186,23 @@
 
 ###
 
-<p align="center">...(*￣０￣)ノ     ヾ(≧▽≦*)o  （￣︶￣）↗</p>
+<br>
+
+<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<br>
+
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=adrian-21-oss&limit=5&theme=dark&combine_all_yearly_contributions=true"  />
+</div>
+
+
+
+
+
+<br>
+
+<p align="center">...(*￣０￣)ノ   ヾ(≧▽≦*)o  （￣︶￣）↗</p>
 
 ###
 
@@ -198,7 +229,8 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adrian-21-oss&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
+
+
 
 ---
