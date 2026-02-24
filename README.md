@@ -206,11 +206,11 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/user-attachments/assets/908071c7-99c5-4791-9134-2704e022b009"  />
+<img align="left" height="50" src="https://github.com/user-attachments/assets/908071c7-99c5-4791-9134-2704e022b009"  />
 
 ###
 
-<img align="right" height="210" src="https://github.com/user-attachments/assets/7ca91a54-088f-4f79-847c-6096ab75d9fd"  />
+<img align="right" height="60" src="https://github.com/user-attachments/assets/7ca91a54-088f-4f79-847c-6096ab75d9fd"  />
 
 ###
 
