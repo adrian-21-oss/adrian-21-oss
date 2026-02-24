@@ -28,6 +28,8 @@
 
 ###
 
+<br>
+
 <h3 align="center">Language and Techs I explored before</h3>
 
 ###
