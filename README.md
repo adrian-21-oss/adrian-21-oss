@@ -210,7 +210,7 @@
 
 ###
 
-<img align="right" height="230" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="210" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -220,17 +220,4 @@
   </a>
 </div>
 
-###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adrian-21-oss.adrian-21-oss&"  />
-
-###
-
-
-
-
-###
-
-
-
----
