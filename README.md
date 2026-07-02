@@ -15,8 +15,6 @@
 
 <br>
 
-<h4 align="left">🔭 Building my foundation in cybersecurity and IT fundamentals.<br><br>🤝 Seeking guidance on blue team skills, log analysis, and threat detection.<br><br>🌱 Learning OS (Windows & Linux) and web development and computer networking as part of my curriculum.<br><br>⚡
-###
 
 <p align="left"></p>
 
