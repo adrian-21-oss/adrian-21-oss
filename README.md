@@ -103,7 +103,7 @@
 
 ###
 
-<p align="center">I am currently more focused on my roadmaps, learning more on cybersecurity and IT fundamentals.</p>
+<p align="center">I am currently more focused on my roadmaps, learning more on cybersecurity and IT fundamentals while also building a live and functional website. </p>
 
 ###
 
@@ -129,7 +129,7 @@
 
 ###
 
-<p align="center">I currently also use and explore techs such as VMware, Cisco Packet Tracer, Wireshark. I also currently explore websites such as Roadmap.sh, Blue Team Labs Online, Let's Defend.</p>
+<p align="center">I temporarily stopped using and exploring techs such as VMware, Cisco Packet Tracer, Wireshark. Same also to websites such as Roadmap.sh, Blue Team Labs Online, Let's Defend.</p>
 
 ###
 
